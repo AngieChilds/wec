@@ -8,7 +8,8 @@ gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.0.0'
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
-
+gem 'activerecord-tableless'
+gem 'compass-rails', '~> 2.0.alpha.0'
 gem 'figaro'
 gem 'gibbon'
 gem 'google_drive'
