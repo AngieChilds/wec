@@ -14,6 +14,7 @@ gem 'figaro'
 gem 'gibbon'
 gem 'google_drive'
 gem 'high_voltage'
+gem 'bcrypt-ruby', '3.1.2'
 gem 'simple_form'
 gem 'zurb-foundation'
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
